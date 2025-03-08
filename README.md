@@ -3,8 +3,6 @@
 
 Based on the code I've provided, here's a comprehensive description of the personalized news digest website solution:
 
-# NewsInsight: Personalized News Digest with Sentiment Analysis
-
 ## Overview
 NewsInsight is a web application that delivers personalized news content with AI-powered summaries and sentiment analysis. The platform allows users to customize their news feed based on topics of interest, keywords, and preferred sources. Each article is processed through an AI model that generates concise summaries and provides sentiment analysis insights.
 
