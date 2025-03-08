@@ -1,4 +1,4 @@
-Let's start with the database schema design in Nhost:
+//Let's start with the database schema design in Nhost:
 
 
 -- Users table (extends Nhost's default auth.users)
